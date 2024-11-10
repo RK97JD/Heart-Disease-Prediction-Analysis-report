@@ -1,11 +1,13 @@
 **Heart Disease Prediction Analysis Report**
 **Project Overview**
 This project demonstrates my ability to analyze healthcare data and derive insights relevant to heart disease prediction using Power BI. It showcases my skills in data visualization, statistical analysis, and storytelling with data. The report includes several key visuals to identify patterns and trends across various patient characteristics like gender, age, smoking status, and medical history (e.g., conditions like asthma and angina).
+
 **Key Skills Demonstrated**
 Data Transformation: Used Power Query to clean, filter, and transform raw data, preparing it for analysis.
 Data Visualization: Created various visuals (e.g., bar charts, donut charts, bubble charts) in Power BI to represent complex data clearly.
 Analytical Thinking: Employed custom filtering to highlight insights related to heart disease risk factors.
 Data Storytelling: Organized the report to guide viewers through a logical flow, from general demographic insights to specific risk factor analysis.
+
 **Project Breakdown**
 1. Alcohol Drinker vs. Sex
 Visualization: Donut Chart
