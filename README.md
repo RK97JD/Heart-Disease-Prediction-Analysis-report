@@ -71,5 +71,5 @@ General Health Trends: Self-reported health status, segmented by gender, shows h
 BMI Distribution by Age: Highlights BMI trends across age groups, giving insights into weight-related risks as people age.
 
 **To view the full Power BI report: ** 
-Download the .pbix file https://github.com/RK97JD/Power-BI/blob/main/Male%20wages.pbix (link to .pbix file) and open it in Power BI Desktop. Alternatively, view the report summary in the provided PDF file https://github.com/RK97JD/Power-BI/blob/main/Male%20wages%20Analysis.pdf (link to PDF file).
+Download the .pbix file (https://github.com/RK97JD/Heart-Disease-Prediction-Analysis-report/blob/main/Heart%20Disease%20Prediction%20Analysis%20Report.pbix) (link to .pbix file) and open it in Power BI Desktop. Alternatively, view the report summary in the provided PDF file https://github.com/RK97JD/Power-BI/blob/main/Male%20wages%20Analysis.pdf (link to PDF file).
 
