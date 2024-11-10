@@ -61,3 +61,12 @@ Visualization: KPI Card
 Purpose: Displays the total number of patients in the dataset.
 
 Insight: A quick overview of the data scale.
+
+**Insights & Key Takeaways**
+
+Lifestyle Factors: Both alcohol and smoking habits are visualized, revealing their prevalence among different genders. Such insights are valuable in preventive health strategies.
+
+General Health Trends: Self-reported health status, segmented by gender, shows how perceived health might relate to actual health conditions.
+
+BMI Distribution by Age: Highlights BMI trends across age groups, giving insights into weight-related risks as people age.
+
